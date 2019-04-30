@@ -1,0 +1,30 @@
+request0:
+  exception: []
+  keys: [GET, HTTP/1.1, 'https://gturnquist-quoters.cfapps.io/api/random']
+  values: [HTTP/1.1, '200', OK, 'Content-Type: application/json;charset=UTF-8', 'Date:
+      Tue, 30 Apr 2019 00:17:14 GMT', 'X-Vcap-Request-Id: 1ccdb56d-ca30-4082-6a53-be5746798039',
+    'Content-Length: 126', 'Connection: keep-alive', '{"type":"success","value":{"id":11,"quote":"I
+      have two hours today to build an app from scratch. @springboot to the rescue!"}}']
+request1:
+  exception: []
+  keys: [GET, HTTP/1.1, 'https://gturnquist-quoters.cfapps.io/api/random']
+  values: [HTTP/1.1, '200', OK, 'Content-Type: application/json;charset=UTF-8', 'Date:
+      Tue, 30 Apr 2019 00:17:14 GMT', 'X-Vcap-Request-Id: fffc8eac-1c2c-4bec-5551-524db8dde17c',
+    'Content-Length: 126', 'Connection: keep-alive', '{"type":"success","value":{"id":11,"quote":"I
+      have two hours today to build an app from scratch. @springboot to the rescue!"}}']
+request2:
+  exception: []
+  keys: [GET, HTTP/1.1, 'https://gturnquist-quoters.cfapps.io/api/random']
+  values: [HTTP/1.1, '200', OK, 'Content-Type: application/json;charset=UTF-8', 'Date:
+      Tue, 30 Apr 2019 00:17:14 GMT', 'X-Vcap-Request-Id: 6b311d19-075b-4808-5686-e81339048cdf',
+    'Content-Length: 214', 'Connection: keep-alive', '{"type":"success","value":{"id":8,"quote":"I
+      don''t worry about my code scaling. Boot allows the developer to peel back the
+      layers and customize when it''s appropriate while keeping the conventions that
+      just work."}}']
+request3:
+  exception: []
+  keys: [GET, HTTP/1.1, 'https://gturnquist-quoters.cfapps.io/api/random']
+  values: [HTTP/1.1, '200', OK, 'Content-Type: application/json;charset=UTF-8', 'Date:
+      Tue, 30 Apr 2019 00:17:14 GMT', 'X-Vcap-Request-Id: edf98137-6f6f-492b-4a51-6d470e1737e6',
+    'Content-Length: 126', 'Connection: keep-alive', '{"type":"success","value":{"id":11,"quote":"I
+      have two hours today to build an app from scratch. @springboot to the rescue!"}}']
